@@ -19,7 +19,6 @@ Both models are trained and evaluated using accuracy, precision, recall, and F1-
 ## 🧩 Steps
 
 1. **Data Loading & Cleaning**
-   - Removed unnecessary columns
    - Lowercased text
    - Encoded target labels (ham = 0, spam = 1)
 
